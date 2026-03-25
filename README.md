@@ -27,7 +27,6 @@ The goal is to work like a real **Security Analyst / Penetration Tester**:
 ```
 📦 vulnerability-assessment-task1/
 ├── 📄 README.md
-├── 📄 Vulnerability_Assessment_Report_Task1.pdf   ← Full report (PDF)
 ├── 📄 Vulnerability_Assessment_Report_Task1.docx  ← Full report (Word)
 ```
 
